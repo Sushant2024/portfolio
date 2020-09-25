@@ -47,7 +47,17 @@ ___________________________________________
 
 **_Coordination between_**
   (Git hub online or remote system) and local system_ :
-
+  
+  - **Important Steps for Repository setup**
+    - Press `Win` + `R` and press "Enter"
+    - Type `cmd` and press "Enter"
+    - Go to the directory where you want to make the folder of "Repository"
+    - Use `cd` and `cd..` to move to the required directory
+    - **Open github and copy the repository link**
+    - Go back to "cmd prompt" and type:
+    
+          git clone paste_the_https_link_of_repository
+  
   - **Setting Terminal in VSCode**
     - Click _code_ option and copy the link
     - Press Ctrl + ` (keyboard button above "TAB"): To open the terminal in VSCode.
