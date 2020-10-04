@@ -7,6 +7,26 @@ body {
     color: #212529;
     text-align: left;
   }
+
+/* ---------------------------- BANNER ----------------------- */  
+  .banner{
+	position: relative;
+	width: 100%;
+	height: 100vh;
+	background-image: linear-gradient(90deg, rgba(198,37,232,0.6), rgba(44, 9, 216,0.6)),url("/img/snow.jpg");
+	background-size: cover;
+	background-position: center;
+}
+.banner svg{
+	position: absolute;
+	bottom: 0;
+	width: 100%;
+}
+.banner svg path{
+	fill: #fff;
+}
+
+/* ---------------------------- Content ----------------------- */
 .row{
     padding: 30px;
 }
@@ -104,3 +124,5 @@ body {
 	.sidenav {padding-top: 15px;}
 	.sidenav a {font-size: 18px;}
   }
+
+   /* ---------------------------- CONTACT US ----------------------- */
