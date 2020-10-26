@@ -302,9 +302,9 @@ _Can be included in the footer section._
 
 ------------------------------
 # Some Awesome Extensions for VS Code
-
+------
 ## **PACKS :-**
-----
+
 > **ANGULAR :** *loiane.angular-extension-pack*
 1. Angular Files : *alexiv.vscode-angular2-files*
 1. Angular Language Service: *angular.ng-template*
@@ -338,7 +338,6 @@ _Can be included in the footer section._
 
 --------
 ## **INDIVIDUALS :-**
---------
 
 **BASIC :** (Snippets & Live Preview **VVI Extensions**)
 1. Django (Auto-complete codes) :*batisteo.vscode-django*
