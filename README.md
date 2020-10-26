@@ -299,3 +299,75 @@ ___________________________________________
 
 ## Disclaimer (_optional_)
 _Can be included in the footer section._
+
+------------------------------
+# Some Awesome Extensions for VS Code
+
+## **PACKS :-**
+----
+> **ANGULAR :** *loiane.angular-extension-pack*
+1. Angular Files : *alexiv.vscode-angular2-files*
+1. Angular Language Service: *angular.ng-template*
+1. Angular Material 2, Flex layout : *1tontech.angular-material*
+1. Angular Schematics : *cyrilletuzi.angular-schematics*
+1. Angular Snippets (Version 9) : *johnpapa.angular2*
+1. Angular2-switcher : *infinity1207.angular2-switcher*
+1. Arrr : *obenjiro.arrr*
+1. Auto Close Tag : *formulahendry.auto-close-tag*
+1. Auto Import : *steoates.autoimport*
+1. Auto Rename Tag : *formulahendry.auto-rename-tag*
+1. Bracket Pair Colorizer 2 : *coenraads.bracket-pair-colorizer-2*
+1. Debugger for Chrome : *msjsdiag.debugger-for-chrome*
+1. EditorConfig for VS Code : *editorconfig.editorconfig*
+1. Karma Problem Matcher : *rctay.karma-problem-matcher*
+1. Move TS - Move TypeScript : *stringham.move-ts*
+1. Paste JSON as Code : *quicktype.quicktype*
+1. Path Intellisense : *christian-kohler.path-intellisense*
+1. Prettier - Code formatter : *esbenp.prettier-vscode*
+1. Simon Test : *simontest.simontest*
+1. TSLint : *ms-vscode.vscode-typescript-tslint-plugin*
+1. TypeScript Hero : *rbbit.typescript-hero*
+
+---
+> **PYTHON :** *donjayamanne.python-extension-pack*
+1. Magic python : *magicstack.magicpython*
+1. Python : *ms-python.python*
+1. Jinja : *wholroyd.jinja*
+1. Django : *batisteo.vscode-django*
+1. Visual Studio IntelliCode : *visualstudioexptteam.vscodeintellicode*
+
+--------
+## **INDIVIDUALS :-**
+--------
+
+**BASIC :** (Snippets & Live Preview **VVI Extensions**)
+1. Django (Auto-complete codes) :*batisteo.vscode-django*
+1. HTML Snippets (Auto-complete codes) : *abusaidm.html-snippets*
+1. GitHub Pull Requests and Issues : *github.vscode-pull-request-github*
+1. Live HTML Previewer (Opens side preview) : *hdg.live-html-previewer*
+1. Live Server : *ritwickdey.liveserver*
+1. Live Share : *ms-vsliveshare.vsliveshare*
+
+**THEME :**
+1. Henna Color Theme : *httpsterio.henna*
+1. Julia Color Theme : *cameronbieganek.julia-color-themes*
+1. Midnight-color : *lucabockmann.midnight-color*
+1. Neon Vommit Color Theme : *ghgofort.neon-vommit*
+
+**BOOTSTRAP :**
+1. Bootstrap 4, Font Awesome : *thekalinga.bootstrap4-vscode*
+1. Bootstrap v4 Snippets : *zaczero.bootstrap-v4-snippets*
+1. NgBootstrap Snippets (Angular) : *ktriek.ng-bootstrap-snippets*
+1. Font Awesome Auto-complete : *janne252.fontawesome-autocomplete*
+1. IntelliSense for CSS class name : *zignd.html-css-class-completion*
+
+**JavaScript & Express :**
+1. Emmet JSS (Auto-completes the JS code): *carbonid1.emmet-jss*
+1. ExpressJs 4 Snippets : *gurayyarar.expressjs-4-snippets*
+
+**IOT (Internet Of Things) :** 
+- (Auto-complete codes for Aurdino, IOT, CMSIS, ESP-IDF, FreeRTOS, libOpenCM3, mbed OS, Pulp OS, SPL, etc)
+
+- Platform IO IDE: *platformio.platformio-ide*
+
+----
