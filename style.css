@@ -53,6 +53,11 @@ body {
 	background-color: black;	
 	display: flex;
 	justify-content: flex-start;
+
+/* Sticky feature of the top navigation bar */
+	/* position: sticky;
+	top: 0%;
+	width: 100%; */
   }
   
   .topnav a {			
