@@ -9,7 +9,7 @@ body {
     font-weight: 400;
     line-height: 1.5;
     color: #212529;
-    text-align: left;
+	text-align: left;
   }
 
 /* ---------------------------- BANNER ----------------------- */  
@@ -49,6 +49,7 @@ body {
 
  /* ----------------------------Top Navigation Bar----------------------- */
  .topnav {
+	position: static;
 	overflow: hidden;
 	background-color: black;	
 	display: flex;
